@@ -32,4 +32,4 @@ It provides insights into income, age, marital status, education, commute distan
 - Supports pricing and promotional strategies based on income and commute behavior.
 - Provides demographic insights for regional expansion.
 
-تحب أظبطلك الملخص ده بصيغة Markdown جاهزة للـ README.md بحيث تنسخه مباشرة على GitHub؟
+
